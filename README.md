@@ -1,4 +1,4 @@
-# Cirnos Perfect Power Flow Solver Executable
+
 
 ## Prerequisites for Deployment
 
@@ -15,27 +15,5 @@
 
    [MATLAB Runtime R2022a Download](https://www.mathworks.com/products/compiler/mcr/index.html)
 
-3. For more information about the MATLAB Runtime and the MATLAB Runtime installer, see “Distribute Applications” in the MATLAB Compiler documentation in the MathWorks Documentation Center.
 
----
-
-## Files to Deploy and Package
-
-### Files to Package for Standalone
-
-* `Cirnos_Perfect_Power_Flow_Solver.exe`
-* `MCRInstaller.exe`
-
-  > **Note:** If end users are unable to download the MATLAB Runtime using the instructions above, include `MCRInstaller.exe` when building your component by clicking the **Runtime included in package** link in the Deployment Tool.
-* This README file
-
----
-
-## Definitions
-
-For information on deployment terminology, visit the MathWorks Documentation Center and navigate to:
-
-```
-MATLAB Compiler > Getting Started > About Application Deployment > Deployment Product Terms
-```
 
