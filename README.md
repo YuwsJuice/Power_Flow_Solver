@@ -1,18 +1,18 @@
-# Power_Flow_Solver
-Power Flow Solver for N bus
+Below is the updated GitHub-style README with a new **Screenshot** section. You can replace the placeholder image path (`images/screenshot.png`) with your actual screenshot file.
 
+````markdown
 # Cirnos Perfect Power Flow Solver Executable
 
 ## Prerequisites for Deployment
 
-1. Verify that version **9.12 (R2022a)** of the MATLAB Runtime is installed.
+1. Verify that version **9.12 (R2022a)** of the MATLAB Runtime is installed.  
    If it is not installed, run the MATLAB Runtime installer. To locate the installer, enter the following at the MATLAB prompt:
 
    ```matlab
    >> mcrinstaller
-   ```
+````
 
-   > **Note:** You will need administrator rights to run the MATLAB Runtime installer.
+> **Note:** You will need administrator rights to run the MATLAB Runtime installer.
 
 2. Alternatively, download and install the Windows version of the MATLAB Runtime for R2022a from MathWorks:
 
@@ -34,10 +34,21 @@ Power Flow Solver for N bus
 
 ---
 
+## Screenshot
+
+Below is a sample view of the Cirnos Perfect Power Flow Solver interface. Replace `images/screenshot.png` with your actual screenshot path in the repository.
+
+![Cirnos Perfect Power Flow Solver Interface](images/screenshot.png)
+
+---
+
 ## Definitions
 
 For information on deployment terminology, visit the MathWorks Documentation Center and navigate to:
 
 ```
 MATLAB Compiler > Getting Started > About Application Deployment > Deployment Product Terms
+```
+
+```
 ```
