@@ -1,4 +1,8 @@
-<img src="images/cirno_1.png" width="400" alt="Cirnos Perfect Power Flow Solver Interface" />
+<p float="left">
+  <img src="images/cirno_1.png" width="250" alt="Image 1" />
+  <img src="images/cirno_2.png" width="250" alt="Image 2" />
+  <img src="images/cirno_3.png" width="250" alt="Image 3" />
+</p>
 
 ## Prerequisite
 
