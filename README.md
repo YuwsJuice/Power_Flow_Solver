@@ -1,6 +1,6 @@
 
 
-## Prerequisites for Deployment
+## Prerequisite
 
 1. Verify that version **9.12 (R2022a)** of the MATLAB Runtime is installed.
    If it is not installed, run the MATLAB Runtime installer. To locate the installer, enter the following at the MATLAB prompt:
