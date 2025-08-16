@@ -1,6 +1,6 @@
 <p float="left">
   <img src="images/Screenshot_61.png" width="250" alt="Main window" />
-  <img src="images/screenshot_62.png" width="250" alt="Convergence plot" />
+  <img src="images/Screenshot_62.png" width="250" alt="Convergence plot" />
 </p>
 
 # Power Flow Solver
